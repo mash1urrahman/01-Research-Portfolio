@@ -1,5 +1,5 @@
 # Computational Investigation of TET2 Variants Associated with Acute Myeloid Leukemia (AML)
-
+![TET2-AML Research Workflow](./TET2%20C1263%20AML%20Research%20Workflow.png)
 ## Project Overview
 
 This research project investigates conserved missense substitutions in the catalytic domain of Ten-Eleven Translocation 2 (TET2), a key enzyme involved in DNA demethylation.
