@@ -1,4 +1,5 @@
 # Computational Investigation of TET2 Variants Associated with Acute Myeloid Leukemia (AML)
+![TET2 C1263 Variant Research Workflow](TET2%20C1263%20Variant%20Research%20Workflow.png)
 
 ## Project Overview
 
