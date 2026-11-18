@@ -3,6 +3,7 @@
 **Category:** Academic Literature Review  
 **Research Area:** Genome Stability | Structural Bioinformatics | DNA Damage & Repair | Cancer Radioprotection  
 **Status:** Completed Academic Synthesis (Unpublished)
+![Tardigrade DNA Protection and Repair Pathway](Tardigrade%20DNA%20Protection%20and%20Repair%20Pathway.png)
 
 ---
 
