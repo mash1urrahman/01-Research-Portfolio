@@ -30,11 +30,6 @@ Welcome to my academic research repository. This portfolio highlights my ongoing
 
 ---
 
-## 📝 3. Manuscripts & Scientific Communications
-*(Upcoming — Abstracts, conference presentations, and pre-submission summaries will be documented here upon institutional and supervisor approval.)*
-
----
-
 ## 📫 Contact & Academic Profile
 * **Name:** Mashiur Rahman
 * **Academic Background:** Biochemistry & Biotechnology, North South University (NSU)
