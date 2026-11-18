@@ -1,6 +1,6 @@
 # Research Portfolio
 
-Welcome to my academic research repository. This portfolio highlights my ongoing and completed research projects, clinical molecular data investigations, critical literature reviews, and manuscript preparation in **Cancer Biology**, **Molecular Oncology**, **Epigenetics**, and **Structural Bioinformatics**.
+Welcome to my academic research repository. This portfolio highlights my ongoing and completed research projects, clinical molecular data investigations and critical literature reviews in **Cancer Biology**, **Molecular Oncology**, **Epigenetics**, and **Structural Bioinformatics**.
 
 ---
 
