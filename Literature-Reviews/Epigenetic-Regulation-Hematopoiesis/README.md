@@ -6,7 +6,7 @@
 
 ---
 
-![Epigenetic Regulation of Cell Fate in Hematopoiesis, Immune Differentiation, and Cancer](Epigenetic%20Regulation%20of%20Cell%20Fate%20in%20Hematopoiesis%2C%20Immune%20Defferentiation%20an%20Cancer.jpg)
+![Emerging Computational, Microbiome & Immunological Strategies](Emerging%20Computational%2C%20Microbiome%20%26%20Immunological%20Strategies%20in%20Cancer%20%26%20Diagnostics.jpg)
 
 ## 1. Overview
 This literature review synthesizes **eight peer-reviewed review articles** examining how DNA methylation, TET-mediated demethylation, histone modifications, chromatin remodeling, and RNA modifications coordinate cell-fate decisions across hematopoietic stem cells (HSCs), adaptive immune cells (B and T lymphocytes), and hematological malignancies.
