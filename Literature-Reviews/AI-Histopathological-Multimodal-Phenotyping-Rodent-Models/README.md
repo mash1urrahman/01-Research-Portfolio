@@ -1,7 +1,6 @@
 # AI-Driven Histopathological and Multimodal Imaging Frameworks for Deep Morphological Phenotyping of Preclinical Rodent Disease Models: A Structured Thematic Literature Synthesis
 
 **Author:** Mashiur Rahman  
-**Context:** Independent Literature Synthesis — Prepared in alignment with Erasmus Mundus Joint Master’s Research Tracks (*Comparative Morphology, Preclinical Phenotyping & Multimodal Bioimaging*)  
 **Scope:** Structured thematic synthesis integrating methodological protocols, quantitative meta-analytic findings, and experimental standardization frameworks across 8 peer-reviewed review-based publications and 1 original experimental study incorporating systematic review, meta-analysis, and methodological validation (73 cited references).  
 **Full-Text Document:** [Download Complete Synthesis (PDF)](AI-Driven%20Histopathological%20and%20Multimodal%20Imaging%20Frameworks%20for%20Deep%20Morphological%20Phenotyping%20of%20Preclinical%20Rodent%20Disease%20Mo.pdf)
 
